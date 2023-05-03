@@ -30,6 +30,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  shared_preferences: ^2.1.0
+  pdf_text_extraction: ^1.2.0
+  pdf_text: ^0.5.0
+  file_picker: any
+
 
 
   # The following adds the Cupertino Icons font to your application.
