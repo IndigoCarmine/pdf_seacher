@@ -169,7 +169,7 @@ packages:
     source: hosted
     version: "1.8.0"
   path:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: path
       sha256: db9d4f58c908a4ba5953fcee2ae317c94889433e5024c27ce74a37f94267945b
@@ -256,6 +256,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.4"
+  porter_2_stemmer:
+    dependency: transitive
+    description:
+      name: porter_2_stemmer
+      sha256: "40374d14165022a700797689eb159bd7baed701fc7c8ca9f39dd0945366b2ed3"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.0.2"
   process:
     dependency: transitive
     description:
@@ -373,6 +381,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.4.16"
+  text_analysis:
+    dependency: "direct main"
+    description:
+      name: text_analysis
+      sha256: "61c8e8d2b25e651f53f77b0c28a7c91b5058c2cf2ee5617e793490705f12cea0"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0+2"
   typed_data:
     dependency: transitive
     description:
